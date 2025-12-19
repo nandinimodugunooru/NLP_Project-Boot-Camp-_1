@@ -1,0 +1,7 @@
+{
+  "name": "Copy of LingoFix - AI Grammar & Translation Hub",
+  "description": "An intelligent English grammar correction tool that provides detailed explanations and translations in regional Indian languages like Telugu and Hindi.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
